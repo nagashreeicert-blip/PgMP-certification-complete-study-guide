@@ -115,7 +115,7 @@ Develop powerful strategic thinking abilities:
 
 ---
 
-# ❤️ Why PgMP Is Designed This Way
+#  Why PgMP Is Designed This Way
 
 PgMP is built on **two core principles**:
 
